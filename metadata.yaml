@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5437
     wikipedia: http://fr.wikipedia.org/wiki/Eliphas_L%C3%A9vi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14259#Le-sorcier-de-Meudon
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-12-05'
 gutenberg_type: Text
